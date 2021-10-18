@@ -1,2 +1,2 @@
 # tensorflow-study
-this is a repository for my study
+this is a repository for strongjifeng's video.
